@@ -1,6 +1,6 @@
 ![alt text](Hero-Section.png)
 
-# Real Estate - Syed Ismail
+# Home Estate - Real Estate - Syed Ismail
 
 Welcome to the "Bootstrap - Syed Ismail" project! This project is a personal website built using HTML, CSS, and Bootstrap, along with some additional libraries for animations and styling.
 
@@ -41,7 +41,7 @@ To view the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/Real-Estate.git
+    git clone https://github.com/your-repo/Home-Heaven.git
     ```
 2. Open the `index.html` file in your browser.
 
